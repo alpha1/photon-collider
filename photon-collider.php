@@ -3,7 +3,7 @@
 Plugin Name: Photon Collider 
 Plugin URI: 
 Description:
-Version:0.0.2
+Version:0.2.0
 Author: Michael Fitzpatrick-Ruth	
 Author URI: http://alpha1beta.org
 License: MIT License
